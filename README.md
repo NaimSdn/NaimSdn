@@ -6,14 +6,14 @@
 <h3 align="center"> My <b>Linkedin</b> profile : <h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/na%C3%AFm-saadoune-20a7b81ba/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 <h3 align="center"> My <b>LeetCode</b> profile :</h3>
 <p align="center">
   <a href="https://leetcode.com/NaimSdn/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FNaimSdn&logo=leetcode&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FNaimSdn&logo=leetcode&logoColor=yellow"/>
   </a>
 </p>
 
@@ -45,6 +45,10 @@
 <h3 align="center">My GitHub stats : </h3>
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=NaimSdn&show_icons=true&theme=vision-friendly-dark&border_radius=35" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NaimSdn&show_icons=true&theme=vision-friendly-dark&border_radius=35"/>
   </a>
+</p>
+
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=NaimSdn&color=blueviolet"/> 
 </p>
