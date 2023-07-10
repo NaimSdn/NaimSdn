@@ -41,14 +41,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
 </p>
-
-<h3 align="center">My GitHub stats : </h3>
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=NaimSdn&show_icons=true&theme=vision-friendly-dark&border_radius=35"/>
-  </a>
-</p>
-
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=NaimSdn&color=blueviolet"/> 
-</p>
