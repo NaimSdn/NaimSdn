@@ -1,8 +1,6 @@
 <h1 align="center"> Hi I'm Naïm 👋</h1>
 <h3 align="center">French Developer 💻</h3>
 
-<h2 align="center">I am here to learn, and share my knowledge. 📚<br> In the future I would like to become a Full-Stack developer and I will do everything to become one.</h2>
-
 <h3 align="center"> My <b>Linkedin</b> profile : <h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/na%C3%AFm-saadoune-20a7b81ba/">
